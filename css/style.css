@@ -11,10 +11,10 @@ header {
     justify-content: space-between;
 }
 
-/* .ul {
+.ul {
     display: flex;
     column-gap: 50px;
-} */
+}
 
 .active,
 .no_active {
