@@ -12,7 +12,7 @@ header {
     align-items: center;
 }
 
-.ul {
+/* .ul { */
     display: flex;
     column-gap: 50px;
 }
