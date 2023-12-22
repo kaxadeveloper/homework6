@@ -15,3 +15,22 @@ header {
     display: flex;
     column-gap: 50px;
 }
+
+.active,
+.no_active {
+    color: #758BFD;
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.active {
+    color: #27187F;
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
