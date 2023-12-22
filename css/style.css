@@ -11,7 +11,7 @@ header {
     justify-content: space-between;
 }
 
-.ul {
+.u {
     display: flex;
     column-gap: 50px;
 }
