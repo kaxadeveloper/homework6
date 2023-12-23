@@ -45,6 +45,7 @@ ul {
     justify-content: flex-end;
     padding-top:12px;
     padding-bottom:12px;
+    padding-right: 8px;
 }
 
 .fa-magnifying-glass {
