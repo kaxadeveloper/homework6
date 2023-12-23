@@ -43,8 +43,8 @@ ul {
     border: 3px solid #758BFD;
     display: flex;
     justify-content: flex-end;
-    padding-top:12px;
-    padding-bottom:12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
     padding-right: 8px;
 }
 
@@ -58,4 +58,14 @@ ul {
 .section_box {
     background: #DDEAF8;
     padding: 115px 98px;
+}
+
+.section_box_title {
+    color: #27187F;
+    font-family: Ubuntu;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 68px;
 }
