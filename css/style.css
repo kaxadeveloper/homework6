@@ -71,8 +71,10 @@ ul {
 }
 
 .card_container {
+    background-color: chartreuse;
     display: flex;
     flex-wrap: wrap;
+    gap: 51px 22px;
 }
 
 .card {
