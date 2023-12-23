@@ -83,3 +83,13 @@ ul {
     border-radius: 10px;
     background: #FFF;
 }
+
+.card_text {
+    color: #133B3A;
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 33px;
+}
