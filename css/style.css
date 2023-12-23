@@ -43,6 +43,8 @@ ul {
     border: 3px solid #758BFD;
     display: flex;
     justify-content: flex-end;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .fa-solid {
