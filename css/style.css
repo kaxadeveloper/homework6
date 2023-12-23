@@ -52,3 +52,10 @@ ul {
     font-size: 32px;
     color: #758BFD;
 }
+
+/* section */
+
+.section_box {
+    background: #DDEAF8;
+    padding: 115px 98px;
+}
