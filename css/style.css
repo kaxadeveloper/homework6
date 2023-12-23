@@ -46,7 +46,6 @@ ul {
 }
 
 .fa-magnifying-glass {
-    width: 32px;
-    height: 32px;
+    font-size: 22px;
     color: #758BFD;
 }
