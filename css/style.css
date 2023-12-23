@@ -74,3 +74,10 @@ ul {
     display: flex;
     flex-wrap: wrap;
 }
+
+.card {
+    width: 400px;
+    padding: 33px 30px;
+    border-radius: 10px;
+    background: #FFF;
+}
