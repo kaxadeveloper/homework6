@@ -118,3 +118,14 @@ i {
     font-size: 22px;
     color: #FFFFFF;
 }
+
+.foot_img1 {
+    width: 97px;
+    height: 55px;
+    display: inline-flex;
+    padding: 13px 5px 15px 2px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #FFF;
+}
