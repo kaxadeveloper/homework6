@@ -99,3 +99,13 @@ footer {
     background: #758BFD;
     padding: 75px 98px 105px 95px;
 }
+
+.footer_follow {
+    color: #FFF;
+    font-family: Century Gothic;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0.2px;
+}
