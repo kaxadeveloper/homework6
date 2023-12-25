@@ -129,3 +129,36 @@ i {
     border-radius: 8px;
     background: #FFF;
 }
+
+.foot_img2 {
+    width: 85px;
+    height: 49px;
+    display: inline-flex;
+    padding: 13px 5px 15px 2px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+.foot_img3 {
+    width: 93px;
+    height: 47px;
+    display: inline-flex;
+    padding: 13px 5px 15px 2px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #FFF; 
+}
+
+.foot_img4 {
+    width: 84px;
+    height: 55px;
+    display: inline-flex;
+    padding: 13px 5px 15px 2px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #FFF;   
+}
