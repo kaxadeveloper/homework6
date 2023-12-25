@@ -98,6 +98,9 @@ ul {
 footer {
     background: #758BFD;
     padding: 75px 98px 105px 95px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .footer_follow {
