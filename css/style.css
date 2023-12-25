@@ -128,39 +128,43 @@ i {
     align-items: center;
     border-radius: 8px;
     background: #FFF;
+    margin-right: 11px;
 }
 
 .foot_img2 {
-    width: 85px;
-    height: 49px;
-    display: inline-flex;
-    padding: 13px 5px 15px 2px;
-    justify-content: center;
-    align-items: center;
-    border-radius: 8px;
-    background: #FFF;
-}
-
-.foot_img3 {
-    width: 93px;
-    height: 47px;
-    display: inline-flex;
-    padding: 13px 5px 15px 2px;
-    justify-content: center;
-    align-items: center;
-    border-radius: 8px;
-    background: #FFF; 
-}
-
-.foot_img4 {
-    width: 84px;
+    width: 97px;
     height: 55px;
     display: inline-flex;
     padding: 13px 5px 15px 2px;
     justify-content: center;
     align-items: center;
     border-radius: 8px;
-    background: #FFF;   
+    background: #FFF;
+    margin-right: 11px;
+}
+
+.foot_img3 {
+    width: 97px;
+    height: 55px;
+    display: inline-flex;
+    padding: 13px 5px 15px 2px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 11px; 
+}
+
+.foot_img4 {
+    width: 97px;
+    height: 55px;
+    display: inline-flex;
+    padding: 13px 5px 15px 2px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 11px;   
 }
 
 .fa-facebook-f {
